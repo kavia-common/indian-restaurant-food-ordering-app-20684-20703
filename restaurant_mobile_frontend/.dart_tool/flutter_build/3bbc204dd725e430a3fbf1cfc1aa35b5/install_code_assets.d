@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/indian-restaurant-food-ordering-app-20684-20703/restaurant_mobile_frontend/.dart_tool/flutter_build/3bbc204dd725e430a3fbf1cfc1aa35b5/native_assets.json: 
